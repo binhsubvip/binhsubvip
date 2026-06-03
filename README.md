@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:a855f7,100:00D2FF&height=220&section=header&text=binhsubvip&fontSize=65&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20PHP%20%7C%20Web%20Creator&descAlignY=60&descSize=17&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:a855f7,100:00D2FF&height=220&section=header&text=BINHSUBVIP&fontSize=65&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20PHP%20%7C%20Web%20Creator&descAlignY=60&descSize=17&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -26,31 +26,37 @@
 
 ---
 
-## 🚀 Về tôi
+## 🧑‍💻 Về tôi
 
-```php
-<?php
+<div align="center">
 
-class BinhSubVip {
+| | |
+|:---|:---|
+| 👤 **Tên** | Thanh Bình |
+| 🌐 **Website** | [h5.io.vn](https://h5.io.vn/) |
+| 📍 **Vị trí** | 🇻🇳 Việt Nam |
+| 💼 **Lĩnh vực** | Web Development · PHP · Open Source |
+| 🔭 **Đang làm** | Phát triển ứng dụng Photobooth thế hệ mới |
+| 💡 **Sở thích** | Coding · Content Creation · Building Tools |
 
-    public string $name     = "Thanh Bình";
-    public string $alias    = "binhsubvip";
-    public string $location = "🇻🇳 Việt Nam";
-    public string $website  = "https://h5.io.vn";
+</div>
 
-    public array $skills    = ["PHP", "JavaScript", "HTML5", "CSS3", "MySQL"];
-    public array $projects  = ["Photobooth App", "Web Tools", "Open Source"];
-    public array $socials   = [
-        "YouTube" => "@thanhbinhdev",
-        "TikTok"  => "@binhsubvip",
-        "FB"      => "binhsubvipdz",
-    ];
+---
 
-    public function currentFocus(): string {
-        return "🔭 Đang phát triển ứng dụng Photobooth thế hệ mới!";
-    }
-}
-```
+## 🛠️ Công nghệ & Công cụ
+
+<div align="center">
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+
+</div>
 
 ---
 
