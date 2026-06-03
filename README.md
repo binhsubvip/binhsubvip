@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,50:16a34a,100:22c55e&height=230&section=header&text=BINHSUBVIP&fontSize=72&fontColor=ffffff&fontAlignY=42&desc=✨%20Full-Stack%20Developer%20%7C%20PHP%20%7C%20Web%20Creator%20✨&descAlignY=62&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,50:16a34a,100:22c55e&height=230&section=header&text=BINHSUBVIP&fontSize=72&fontColor=ffffff&fontAlignY=42&desc=🌿%20Freelance%20Developer%20%7C%20Solo%20Maker%20%7C%20Web%20Creator%20🌿&descAlignY=62&descSize=16&animation=fadeIn" width="100%"/>
 
 <br/>
 
 ## 👋 Xin chào! Tôi là **Phan Thanh Bình**
 
-> 🌱 Lập trình viên đam mê từ 🇻🇳 Việt Nam &nbsp;·&nbsp; Xây dựng web &nbsp;·&nbsp; Sáng tạo sản phẩm số
+> 🌱 Lập trình viên tự do từ 🇻🇳 Việt Nam &nbsp;·&nbsp; Làm việc độc lập &nbsp;·&nbsp; Xây dựng sản phẩm thực tế
 
 <br/>
 
-[![Website](https://img.shields.io/badge/🌐%20h5.io.vn-Visit-16a34a?style=for-the-badge)](https://h5.io.vn/)
+[![Website](https://img.shields.io/badge/🌐%20h5.io.vn-16a34a?style=for-the-badge)](https://h5.io.vn/)
 &nbsp;
 [![Facebook](https://img.shields.io/badge/Facebook-binhsubvipdz-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/binhsubvipdz)
 &nbsp;
@@ -42,33 +42,42 @@
     <td width="50%" valign="top">
       <h3 align="center">💡 Đam mê & Triết lý</h3>
       <ul>
-        <li>🟢 Thích <b>tự mình giải quyết</b> mọi vấn đề từ A → Z</li>
+        <li>🟢 Thích <b>tự mình giải quyết</b> mọi thứ từ A đến Z</li>
         <li>🔨 Xây dựng sản phẩm <b>thực tế, có ích</b> cho cộng đồng</li>
         <li>📺 Chia sẻ kiến thức qua <b>YouTube &amp; TikTok</b></li>
         <li>🚀 Không ngừng cải thiện <b>kỹ năng lập trình</b> mỗi ngày</li>
-        <li>🌱 Tin rằng <b>solo developer</b> cũng có thể tạo ra điều lớn lao</li>
+        <li>🌱 Tin rằng <b>solo developer</b> cũng tạo ra điều lớn lao</li>
       </ul>
     </td>
   </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <br/>
-      <h3>🛠️ Kỹ năng</h3>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-      &nbsp;
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-      &nbsp;
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-      &nbsp;
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-      &nbsp;
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-      &nbsp;
-      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-      <br/><br/>
-    </td>
-  </tr>
 </table>
+
+</div>
+
+---
+
+## 🚀 Hành trình lập trình
+
+<div align="center">
+
+```
+🌱 Bắt đầu       →    💻 Tự học PHP      →    🌐 Xây web đầu tiên
+   từ con số 0              MySQL · HTML              h5.io.vn
+
+🎯 Freelance      →    📦 Ra mắt dự án    →    📺 Chia sẻ & Truyền cảm hứng
+   Solo Developer         Open Source              YouTube · TikTok
+```
+
+</div>
+
+<div align="center">
+
+| 💪 Điểm mạnh | 🎨 Phong cách làm việc |
+|:---|:---|
+| 🔹 Tự nghiên cứu & giải quyết vấn đề | 🎯 Làm từng bước, chắc chắn từng phần |
+| 🔹 Biến ý tưởng thành sản phẩm thật | 🎯 Ưu tiên trải nghiệm người dùng |
+| 🔹 Không phụ thuộc team, tự chủ hoàn toàn | 🎯 Code sạch, dễ bảo trì |
+| 🔹 Luôn cập nhật xu hướng công nghệ mới | 🎯 Tối ưu hiệu năng và bảo mật |
 
 </div>
 
@@ -128,6 +137,21 @@
 
 ---
 
+## 📺 Nội dung & Cộng đồng
+
+<div align="center">
+
+| Nền tảng | Kênh | Nội dung |
+|:---:|:---|:---|
+| ▶️ **YouTube** | [@thanhbinhdev](https://www.youtube.com/@thanhbinhdev) | Chia sẻ lập trình, tutorials PHP, web dev tips |
+| 🎵 **TikTok** | [@binhsubvip](https://www.tiktok.com/@binhsubvip) | Coding shorts, mẹo dev hàng ngày |
+| 📘 **Facebook** | [binhsubvipdz](https://www.facebook.com/binhsubvipdz) | Cập nhật dự án, chia sẻ kinh nghiệm |
+| 🌐 **Website** | [h5.io.vn](https://h5.io.vn/) | Blog kỹ thuật & showcase dự án |
+
+</div>
+
+---
+
 ## 📱 Kết nối với tôi
 
 <div align="center">
@@ -173,7 +197,7 @@
 
 <div align="center">
 
-> 💚 *"Code không chỉ là công việc — đó là nghệ thuật."*
+> 💚 *"Không cần team lớn — chỉ cần ý tưởng đúng và đủ kiên trì."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:16a34a,100:0d9488&height=130&section=footer" width="100%"/>
 
