@@ -1,18 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:a855f7,100:00D2FF&height=230&section=header&text=BINHSUBVIP&fontSize=70&fontColor=ffffff&fontAlignY=42&desc=✨%20Full-Stack%20Developer%20%7C%20PHP%20%7C%20Web%20Creator%20✨&descAlignY=62&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,50:16a34a,100:22c55e&height=230&section=header&text=BINHSUBVIP&fontSize=72&fontColor=ffffff&fontAlignY=42&desc=✨%20Full-Stack%20Developer%20%7C%20PHP%20%7C%20Web%20Creator%20✨&descAlignY=62&descSize=16&animation=fadeIn" width="100%"/>
 
 <br/>
 
-### 👋 Xin chào! Tôi là **Thanh Bình** — lập trình viên từ 🇻🇳 Việt Nam
+## 👋 Xin chào! Tôi là **Phan Thanh Bình**
+
+> 🌱 Lập trình viên đam mê từ 🇻🇳 Việt Nam &nbsp;·&nbsp; Xây dựng web &nbsp;·&nbsp; Sáng tạo sản phẩm số
 
 <br/>
 
-[![Website](https://img.shields.io/badge/🌐%20h5.io.vn-Visit-6C63FF?style=for-the-badge)](https://h5.io.vn/)
+[![Website](https://img.shields.io/badge/🌐%20h5.io.vn-Visit-16a34a?style=for-the-badge)](https://h5.io.vn/)
+&nbsp;
 [![Facebook](https://img.shields.io/badge/Facebook-binhsubvipdz-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/binhsubvipdz)
+&nbsp;
 [![TikTok](https://img.shields.io/badge/TikTok-@binhsubvip-010101?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@binhsubvip)
+&nbsp;
 [![YouTube](https://img.shields.io/badge/YouTube-@thanhbinhdev-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@thanhbinhdev)
-[![Telegram](https://img.shields.io/badge/Telegram-@binhsubvip-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/binhsubvip)
 
 </div>
 
@@ -22,22 +26,24 @@
 
 <div align="center">
 
-<table>
+<table width="80%">
   <tr>
-    <td>
+    <td width="50%" valign="top">
+      <h3 align="center">📋 Thông tin</h3>
       <ul>
-        <li>👤 <b>Tên:</b> Thanh Bình</li>
+        <li>👤 <b>Họ tên:</b> Phan Thanh Bình</li>
+        <li>🔖 <b>Nickname:</b> binhsubvip</li>
         <li>📍 <b>Vị trí:</b> 🇻🇳 Việt Nam</li>
         <li>🌐 <b>Website:</b> <a href="https://h5.io.vn">h5.io.vn</a></li>
-        <li>💼 <b>Lĩnh vực:</b> Web Development · PHP · Open Source</li>
       </ul>
     </td>
-    <td>
+    <td width="50%" valign="top">
+      <h3 align="center">🎯 Định hướng</h3>
       <ul>
         <li>🔭 <b>Đang làm:</b> Photobooth App thế hệ mới</li>
         <li>📚 <b>Đang học:</b> JavaScript nâng cao · UI/UX</li>
-        <li>💡 <b>Đam mê:</b> Coding · Content Creation · Building Tools</li>
-        <li>🎯 <b>Mục tiêu:</b> Xây dựng sản phẩm hữu ích cho cộng đồng</li>
+        <li>💡 <b>Đam mê:</b> Coding · Content Creation</li>
+        <li>🎯 <b>Mục tiêu:</b> Xây sản phẩm hữu ích cho cộng đồng</li>
       </ul>
     </td>
   </tr>
@@ -51,15 +57,14 @@
 
 <div align="center">
 
-<table>
+<table width="90%">
   <tr>
     <td align="center" width="25%">
       <a href="https://github.com/binhsubvip/photobooth">
-        <img src="https://img.shields.io/badge/📸-photobooth-6C63FF?style=for-the-badge" alt="photobooth"/>
+        <img src="https://img.shields.io/badge/📸_Photobooth-0d9488?style=for-the-badge&logoColor=white" alt="photobooth"/>
       </a>
       <br/><br/>
-      <b>Photobooth App</b>
-      <br/>
+      <b>Photobooth App</b><br/>
       <sub>Ứng dụng chụp ảnh booth thông minh,<br/>hỗ trợ frame ảnh & quản lý admin</sub>
       <br/><br/>
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
@@ -67,33 +72,30 @@
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/binhsubvip/tinhoc">
-        <img src="https://img.shields.io/badge/💻-tinhoc-a855f7?style=for-the-badge" alt="tinhoc"/>
+        <img src="https://img.shields.io/badge/💻_Tin_Học-16a34a?style=for-the-badge&logoColor=white" alt="tinhoc"/>
       </a>
       <br/><br/>
-      <b>Tin Học</b>
-      <br/>
+      <b>Tin Học</b><br/>
       <sub>Ứng dụng học tập tin học<br/>dành cho học sinh sinh viên</sub>
       <br/><br/>
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/binhsubvip/lichsu">
-        <img src="https://img.shields.io/badge/📖-lichsu-00D2FF?style=for-the-badge" alt="lichsu"/>
+        <img src="https://img.shields.io/badge/📖_Lịch_Sử-22c55e?style=for-the-badge&logoColor=white" alt="lichsu"/>
       </a>
       <br/><br/>
-      <b>Lịch Sử</b>
-      <br/>
+      <b>Lịch Sử</b><br/>
       <sub>Ứng dụng học tập lịch sử<br/>tương tác và trực quan</sub>
       <br/><br/>
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/binhsubvip/congnghe">
-        <img src="https://img.shields.io/badge/⚙️-congnghe-F05032?style=for-the-badge" alt="congnghe"/>
+        <img src="https://img.shields.io/badge/⚙️_Công_Nghệ-4ade80?style=for-the-badge&logoColor=white" alt="congnghe"/>
       </a>
       <br/><br/>
-      <b>Công Nghệ</b>
-      <br/>
+      <b>Công Nghệ</b><br/>
       <sub>Nền tảng chia sẻ kiến thức<br/>công nghệ & lập trình</sub>
       <br/><br/>
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
@@ -113,7 +115,7 @@
   <tr>
     <td align="center">
       <a href="https://h5.io.vn/">
-        <img src="https://img.shields.io/badge/-h5.io.vn-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-h5.io.vn-0d9488?style=for-the-badge&logo=googlechrome&logoColor=white"/>
       </a>
       <br/><sub><b>🌐 Website</b></sub>
     </td>
@@ -150,8 +152,8 @@
 
 <div align="center">
 
-> 💜 *"Code không chỉ là công việc — đó là nghệ thuật."*
+> 💚 *"Code không chỉ là công việc — đó là nghệ thuật."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D2FF,50:a855f7,100:6C63FF&height=130&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:16a34a,100:0d9488&height=130&section=footer" width="100%"/>
 
 </div>
