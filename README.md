@@ -1,52 +1,78 @@
-<h1 align="center">👋 Hi, I'm BINHSUBVIP</h1>
+<div align="center">
+
+# 👑 BINHSUBVIP
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=800&lines=Founder+of+H5.IO.VN;Web+Developer;PHP+Developer;Building+the+Future+of+H5;Creating+Projects+for+the+Community" />
+
+<img src="https://komarev.com/ghpvc/?username=binhsubvip&label=PROFILE+VIEWS&color=22c55e&style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🚀 About Me
+
+```yaml
+Name: BINHSUBVIP
+Role: Founder & Developer
+Website: https://h5.io.vn
+Location: Vietnam
+Focus:
+  - Web Development
+  - PHP Systems
+  - Hosting & VPS
+  - API Integrations
+  - Educational Platforms
+```
+
+---
+
+# 🌐 H5.IO.VN Network
+
+| Website | Description |
+|----------|------------|
+| h5.io.vn | Main Website |
+| tin.h5.io.vn | News Platform |
+| lichsu.h5.io.vn | History Learning |
+| cn.h5.io.vn | Technology Learning |
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&pause=1000&center=true&vCenter=true&width=700&lines=Founder+of+H5.IO.VN;Web+Developer;PHP+Developer;Building+Useful+Online+Projects;Always+Learning+New+Things" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=binhsubvip&show_icons=true&theme=chartreuse-dark&rank_icon=github"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binhsubvip&layout=compact&theme=chartreuse-dark"/>
 </p>
+
+---
+
+# 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=binhsubvip&label=Profile+Views&color=22c55e&style=for-the-badge" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=binhsubvip&theme=highcontrast"/>
 </p>
 
 ---
 
-## 🚀 About Me
-
-- 🌐 Founder of **H5.IO.VN**
-- 💻 Web Developer & PHP Developer
-- ⚡ Building web applications, educational websites and online tools
-- 🛠 Interested in Hosting, VPS, APIs and Automation
-- 📚 Always learning new technologies
-
----
-
-## 🌍 H5.IO.VN Ecosystem
-
-- 🌐 https://h5.io.vn
-- 📖 https://lichsu.h5.io.vn
-- 📰 https://tin.h5.io.vn
-- 💻 https://cn.h5.io.vn
-
----
-
-## 📊 GitHub Stats
+# 📈 Activity Graph
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=binhsubvip&show_icons=true&theme=tokyonight" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binhsubvip&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=binhsubvip&theme=chartreuse-dark"/>
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=binhsubvip&theme=tokyonight" />
+<img src="https://github-profile-trophy.vercel.app/?username=binhsubvip&theme=matrix&row=2&column=4"/>
 </p>
 
 ---
 
-## 🛠 Tech Stack
+# ⚡ Tech Stack
 
 ### Languages
 
@@ -55,42 +81,45 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 
-### Database
+### Backend
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
 
 ### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
 
 ---
 
-## 📈 Contribution Graph
+# 📂 Featured Projects
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=binhsubvip&theme=tokyo-night" />
+🚀 H5.IO.VN
+
+📚 Online Learning Platforms
+
+💻 VPS & Hosting Systems
+
+⚙️ PHP Automation Tools
+
+🌐 API Powered Applications
 
 ---
 
-## 🏆 GitHub Trophies
+# 🎯 Current Goals
 
-<img src="https://github-profile-trophy.vercel.app/?username=binhsubvip&theme=tokyonight&row=1&column=7" />
-
----
-
-## 📫 Contact
-
-🌐 Website: https://h5.io.vn
-
-💡 Open to collaboration and development projects.
+- Build larger web ecosystems
+- Improve educational platforms
+- Develop automation systems
+- Expand H5.IO.VN services
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile ⭐
+## ⭐ Building useful projects for everyone
 
-Building useful projects one step at a time 🚀
+### H5.IO.VN
 
 </div>
