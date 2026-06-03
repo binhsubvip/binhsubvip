@@ -26,25 +26,46 @@
 
 <div align="center">
 
-<table width="80%">
+<table width="88%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">📋 Thông tin</h3>
+      <h3 align="center">📋 Thông tin cá nhân</h3>
       <ul>
         <li>👤 <b>Họ tên:</b> Phan Thanh Bình</li>
         <li>🔖 <b>Nickname:</b> binhsubvip</li>
         <li>📍 <b>Vị trí:</b> 🇻🇳 Việt Nam</li>
         <li>🌐 <b>Website:</b> <a href="https://h5.io.vn">h5.io.vn</a></li>
+        <li>🧑‍💼 <b>Vai trò:</b> Freelance Developer · Solo Maker</li>
+        <li>⚡ <b>Phong cách:</b> Tự học · Tự làm · Tự phát triển</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🎯 Định hướng</h3>
+      <h3 align="center">💡 Đam mê & Triết lý</h3>
       <ul>
-        <li>🔭 <b>Đang làm:</b> Photobooth App thế hệ mới</li>
-        <li>📚 <b>Đang học:</b> JavaScript nâng cao · UI/UX</li>
-        <li>💡 <b>Đam mê:</b> Coding · Content Creation</li>
-        <li>🎯 <b>Mục tiêu:</b> Xây sản phẩm hữu ích cho cộng đồng</li>
+        <li>🟢 Thích <b>tự mình giải quyết</b> mọi vấn đề từ A → Z</li>
+        <li>🔨 Xây dựng sản phẩm <b>thực tế, có ích</b> cho cộng đồng</li>
+        <li>📺 Chia sẻ kiến thức qua <b>YouTube &amp; TikTok</b></li>
+        <li>🚀 Không ngừng cải thiện <b>kỹ năng lập trình</b> mỗi ngày</li>
+        <li>🌱 Tin rằng <b>solo developer</b> cũng có thể tạo ra điều lớn lao</li>
       </ul>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <br/>
+      <h3>🛠️ Kỹ năng</h3>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+      <br/><br/>
     </td>
   </tr>
 </table>
