@@ -56,7 +56,6 @@
 
 ---
 
-
 <div align="center">
 
 | 💪 Điểm mạnh | 🎨 Phong cách làm việc |
