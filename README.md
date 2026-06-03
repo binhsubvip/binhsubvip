@@ -4,11 +4,9 @@
 
 <br/>
 
-## 👋 Xin chào! Tôi là **Phan Thanh Bình**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22c55e&center=true&vCenter=true&width=600&lines=Xin+ch%C3%A0o%21+T%C3%B4i+l%C3%A0+Phan+Thanh+B%C3%ACnh+%F0%9F%91%8B;Freelance+Developer+%7C+Solo+Maker+%F0%9F%9A%80;T%E1%BB%B1+h%E1%BB%8Dc+%C2%B7+T%E1%BB%B1+l%C3%A0m+%C2%B7+T%E1%BB%B1+ph%C3%A1t+tri%E1%BB%83n+%F0%9F%8C%B1;Building+cool+stuff+from+%F0%9F%87%BB%F0%9F%87%B3+Vi%E1%BB%87t+Nam%21" alt="Typing SVG"/>
 
-> 🌱 Lập trình viên tự do từ 🇻🇳 Việt Nam &nbsp;·&nbsp; Làm việc độc lập &nbsp;·&nbsp; Xây dựng sản phẩm thực tế
-
-<br/>
+<br/><br/>
 
 [![Website](https://img.shields.io/badge/🌐%20h5.io.vn-16a34a?style=for-the-badge)](https://h5.io.vn/)
 &nbsp;
@@ -17,6 +15,14 @@
 [![TikTok](https://img.shields.io/badge/TikTok-@binhsubvip-010101?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@binhsubvip)
 &nbsp;
 [![YouTube](https://img.shields.io/badge/YouTube-@thanhbinhdev-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@thanhbinhdev)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=binhsubvip&label=Profile+Views&color=16a34a&style=flat-square)
+&nbsp;
+![GitHub followers](https://img.shields.io/github/followers/binhsubvip?label=Followers&style=flat-square&color=22c55e)
+&nbsp;
+![GitHub stars](https://img.shields.io/github/stars/binhsubvip?label=Total+Stars&style=flat-square&color=0d9488)
 
 </div>
 
@@ -56,6 +62,20 @@
 
 ---
 
+## 🚀 Hành trình lập trình
+
+<div align="center">
+
+```
+🌱 Bắt đầu       →    💻 Tự học PHP      →    🌐 Xây web đầu tiên
+   từ con số 0              MySQL · HTML              h5.io.vn
+
+🎯 Freelance      →    📦 Ra mắt dự án    →    📺 Chia sẻ & Truyền cảm hứng
+   Solo Developer         Open Source              YouTube · TikTok
+```
+
+</div>
+
 <div align="center">
 
 | 💪 Điểm mạnh | 🎨 Phong cách làm việc |
@@ -77,7 +97,7 @@
   <tr>
     <td align="center" width="25%">
       <a href="https://github.com/binhsubvip/photobooth">
-        <img src="https://img.shields.io/badge/📸_Photobooth-0d9488?style=for-the-badge&logoColor=white" alt="photobooth"/>
+        <img src="https://img.shields.io/badge/📸_Photobooth-0d9488?style=for-the-badge&logoColor=white"/>
       </a>
       <br/><br/>
       <b>Photobooth App</b><br/>
@@ -85,36 +105,44 @@
       <br/><br/>
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+      <br/>
+      <img src="https://img.shields.io/github/last-commit/binhsubvip/photobooth?style=flat-square&color=22c55e&label=updated"/>
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/binhsubvip/tinhoc">
-        <img src="https://img.shields.io/badge/💻_Tin_Học-16a34a?style=for-the-badge&logoColor=white" alt="tinhoc"/>
+        <img src="https://img.shields.io/badge/💻_Tin_Học-16a34a?style=for-the-badge&logoColor=white"/>
       </a>
       <br/><br/>
       <b>Tin Học</b><br/>
       <sub>Ứng dụng học tập tin học<br/>dành cho học sinh sinh viên</sub>
       <br/><br/>
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+      <br/>
+      <img src="https://img.shields.io/github/last-commit/binhsubvip/tinhoc?style=flat-square&color=22c55e&label=updated"/>
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/binhsubvip/lichsu">
-        <img src="https://img.shields.io/badge/📖_Lịch_Sử-22c55e?style=for-the-badge&logoColor=white" alt="lichsu"/>
+        <img src="https://img.shields.io/badge/📖_Lịch_Sử-22c55e?style=for-the-badge&logoColor=white"/>
       </a>
       <br/><br/>
       <b>Lịch Sử</b><br/>
       <sub>Ứng dụng học tập lịch sử<br/>tương tác và trực quan</sub>
       <br/><br/>
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+      <br/>
+      <img src="https://img.shields.io/github/last-commit/binhsubvip/lichsu?style=flat-square&color=22c55e&label=updated"/>
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/binhsubvip/congnghe">
-        <img src="https://img.shields.io/badge/⚙️_Công_Nghệ-4ade80?style=for-the-badge&logoColor=white" alt="congnghe"/>
+        <img src="https://img.shields.io/badge/⚙️_Công_Nghệ-4ade80?style=for-the-badge&logoColor=white"/>
       </a>
       <br/><br/>
       <b>Công Nghệ</b><br/>
       <sub>Nền tảng chia sẻ kiến thức<br/>công nghệ & lập trình</sub>
       <br/><br/>
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+      <br/>
+      <img src="https://img.shields.io/github/last-commit/binhsubvip/congnghe?style=flat-square&color=22c55e&label=updated"/>
     </td>
   </tr>
 </table>
@@ -183,7 +211,9 @@
 
 <div align="center">
 
-> 💚 *"Không cần team lớn — chỉ cần ý tưởng đúng và đủ kiên trì."*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=22c55e&center=true&vCenter=true&width=500&lines=%F0%9F%92%9A+%22Kh%C3%B4ng+c%E1%BA%A7n+team+l%E1%BB%9Bn%22;%F0%9F%92%9A+%22Ch%E1%BB%89+c%E1%BA%A7n+%C3%BD+t%C6%B0%E1%BB%9Fng+%C4%91%C3%BAng+v%C3%A0+%C4%91%E1%BB%A7+ki%C3%AAn+tr%C3%AC%22" alt="Quote"/>
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:16a34a,100:0d9488&height=130&section=footer" width="100%"/>
 
