@@ -56,19 +56,6 @@
 
 ---
 
-## 🚀 Hành trình lập trình
-
-<div align="center">
-
-```
-🌱 Bắt đầu       →    💻 Tự học PHP      →    🌐 Xây web đầu tiên
-   từ con số 0              MySQL · HTML              h5.io.vn
-
-🎯 Freelance      →    📦 Ra mắt dự án    →    📺 Chia sẻ & Truyền cảm hứng
-   Solo Developer         Open Source              YouTube · TikTok
-```
-
-</div>
 
 <div align="center">
 
