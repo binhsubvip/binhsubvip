@@ -62,28 +62,59 @@
 
 ---
 
-## 🚀 Hành trình lập trình
+## 💼 Dịch vụ Freelance
 
 <div align="center">
 
-```
-🌱 Bắt đầu       →    💻 Tự học PHP      →    🌐 Xây web đầu tiên
-   từ con số 0              MySQL · HTML              h5.io.vn
-
-🎯 Freelance      →    📦 Ra mắt dự án    →    📺 Chia sẻ & Truyền cảm hứng
-   Solo Developer         Open Source              YouTube · TikTok
-```
+<table width="88%">
+  <tr>
+    <td align="center" width="33%">
+      <h3>🌐 Làm Website</h3>
+      <sub>Thiết kế & lập trình website theo yêu cầu<br/>Landing page · Blog · Portfolio · Web App</sub>
+    </td>
+    <td align="center" width="33%">
+      <h3>🛠️ Bảo trì & Sửa lỗi</h3>
+      <sub>Fix bug · Tối ưu tốc độ · Bảo mật website<br/>Hỗ trợ PHP · MySQL · Apache</sub>
+    </td>
+    <td align="center" width="33%">
+      <h3>📦 Phát triển tính năng</h3>
+      <sub>Thêm chức năng mới cho website sẵn có<br/>API · Admin panel · Quản lý dữ liệu</sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
+---
+
+## 💪 Điểm mạnh & Phong cách
+
 <div align="center">
 
-| 💪 Điểm mạnh | 🎨 Phong cách làm việc |
+| 💡 Điểm mạnh | 🎨 Phong cách làm việc |
 |:---|:---|
 | 🔹 Tự nghiên cứu & giải quyết vấn đề | 🎯 Làm từng bước, chắc chắn từng phần |
 | 🔹 Biến ý tưởng thành sản phẩm thật | 🎯 Ưu tiên trải nghiệm người dùng |
-| 🔹 Không phụ thuộc team, tự chủ hoàn toàn | 🎯 Code sạch, dễ bảo trì |
-| 🔹 Luôn cập nhật xu hướng công nghệ mới | 🎯 Tối ưu hiệu năng và bảo mật |
+| 🔹 Không phụ thuộc team, tự chủ 100% | 🎯 Code sạch, dễ bảo trì |
+| 🔹 Hiểu rõ nhu cầu thực tế của khách | 🎯 Tối ưu hiệu năng và bảo mật |
+| 🔹 Giao tiếp rõ ràng, đúng deadline | 🎯 Hỗ trợ sau khi hoàn thành dự án |
+
+</div>
+
+---
+
+## ⚡ Fun Facts về tôi
+
+<div align="center">
+
+```
+🟢  Tôi là developer tự học 100% — không qua trường lớp chính quy
+🟢  Thích code một mình hơn làm việc theo team
+🟢  Mỗi dự án đều tự mình design → code → deploy
+🟢  Hay thức khuya để fix bug và nghĩ ra feature mới 🌙
+🟢  Tin rằng "Google + kiên trì" có thể giải quyết mọi vấn đề
+🟢  Sở thích: Lập trình · Xem tech news · Tạo content
+```
 
 </div>
 
