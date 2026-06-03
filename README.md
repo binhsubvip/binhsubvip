@@ -101,22 +101,6 @@
 
 </div>
 
----
-
-## ⚡ Fun Facts về tôi
-
-<div align="center">
-
-```
-🟢  Tôi là developer tự học 100% — không qua trường lớp chính quy
-🟢  Thích code một mình hơn làm việc theo team
-🟢  Mỗi dự án đều tự mình design → code → deploy
-🟢  Hay thức khuya để fix bug và nghĩ ra feature mới 🌙
-🟢  Tin rằng "Google + kiên trì" có thể giải quyết mọi vấn đề
-🟢  Sở thích: Lập trình · Xem tech news · Tạo content
-```
-
-</div>
 
 ---
 
