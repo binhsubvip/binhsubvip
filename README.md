@@ -104,67 +104,7 @@
 
 ---
 
-## 📌 Dự án nổi bật
 
-<div align="center">
-
-<table width="90%">
-  <tr>
-    <td align="center" width="25%">
-      <a href="https://github.com/binhsubvip/photobooth">
-        <img src="https://img.shields.io/badge/📸_Photobooth-0d9488?style=for-the-badge&logoColor=white"/>
-      </a>
-      <br/><br/>
-      <b>Photobooth App</b><br/>
-      <sub>Ứng dụng chụp ảnh booth thông minh,<br/>hỗ trợ frame ảnh & quản lý admin</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-      <br/>
-      <img src="https://img.shields.io/github/last-commit/binhsubvip/photobooth?style=flat-square&color=22c55e&label=updated"/>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://github.com/binhsubvip/tinhoc">
-        <img src="https://img.shields.io/badge/💻_Tin_Học-16a34a?style=for-the-badge&logoColor=white"/>
-      </a>
-      <br/><br/>
-      <b>Tin Học</b><br/>
-      <sub>Ứng dụng học tập tin học<br/>dành cho học sinh sinh viên</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-      <br/>
-      <img src="https://img.shields.io/github/last-commit/binhsubvip/tinhoc?style=flat-square&color=22c55e&label=updated"/>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://github.com/binhsubvip/lichsu">
-        <img src="https://img.shields.io/badge/📖_Lịch_Sử-22c55e?style=for-the-badge&logoColor=white"/>
-      </a>
-      <br/><br/>
-      <b>Lịch Sử</b><br/>
-      <sub>Ứng dụng học tập lịch sử<br/>tương tác và trực quan</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-      <br/>
-      <img src="https://img.shields.io/github/last-commit/binhsubvip/lichsu?style=flat-square&color=22c55e&label=updated"/>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://github.com/binhsubvip/congnghe">
-        <img src="https://img.shields.io/badge/⚙️_Công_Nghệ-4ade80?style=for-the-badge&logoColor=white"/>
-      </a>
-      <br/><br/>
-      <b>Công Nghệ</b><br/>
-      <sub>Nền tảng chia sẻ kiến thức<br/>công nghệ & lập trình</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-      <br/>
-      <img src="https://img.shields.io/github/last-commit/binhsubvip/congnghe?style=flat-square&color=22c55e&label=updated"/>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
 
 ## 📺 Nội dung & Cộng đồng
 
